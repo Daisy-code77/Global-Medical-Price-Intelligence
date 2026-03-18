@@ -1,0 +1,326 @@
+[
+  {
+    "id": 1,
+    "name": "GE Healthcare Revolution CT Scanner",
+    "category": "Imaging",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?auto=format&fit=crop&q=80&w=400",
+    "description": "High-definition CT scanner with advanced imaging capabilities for precise diagnostics.",
+    "specs": {
+      "Slices": "512 Slices",
+      "Bore Size": "80 cm",
+      "Power": "100 kW"
+    },
+    "prices": {
+      "India (Medika)": { "value": 15000000, "currency": "INR" },
+      "USA (GlobalMed)": { "value": 185000, "currency": "USD" },
+      "Germany (EuroDoc)": { "value": 170000, "currency": "EUR" },
+      "UK (NHS-Care)": { "value": 145000, "currency": "GBP" }
+    }
+  },
+  {
+    "id": 2,
+    "name": "Philips IntelliVue MX800 Patient Monitor",
+    "category": "Monitoring",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869033e561?auto=format&fit=crop&q=80&w=400",
+    "description": "Integrated PC and monitor for critical care bedside monitoring.",
+    "specs": {
+      "Screen": "19 inch Touch",
+      "Battery": "4 Hours",
+      "Weight": "12 kg"
+    },
+    "prices": {
+      "India (Medika)": { "value": 850000, "currency": "INR" },
+      "USA (GlobalMed)": { "value": 10500, "currency": "USD" },
+      "Germany (EuroDoc)": { "value": 9800, "currency": "EUR" },
+      "UK (NHS-Care)": { "value": 8200, "currency": "GBP" }
+    }
+  },
+  {
+    "id": 3,
+    "name": "3M Littmann Master Cardiology Stethoscope",
+    "category": "Diagnostics",
+    "image": "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&q=80&w=400",
+    "description": "Premium acoustic stethoscope for expert cardiology auscultation.",
+    "specs": {
+      "Chestpiece": "Single-sided",
+      "Tubing": "Double lumen",
+      "Warranty": "7 Years"
+    },
+    "prices": {
+      "India (Medika)": { "value": 18500, "currency": "INR" },
+      "USA (GlobalMed)": { "value": 220, "currency": "USD" },
+      "Germany (EuroDoc)": { "value": 205, "currency": "EUR" },
+      "UK (NHS-Care)": { "value": 175, "currency": "GBP" }
+    }
+  },
+  {
+    "id": 4,
+    "name": "Dräger Evita V800 Ventilator",
+    "category": "Critical Care",
+    "image": "https://images.unsplash.com/photo-1581093458791-9f3c3900df4b?auto=format&fit=crop&q=80&w=400",
+    "description": "High-end ventilation for adult, pediatric, and neonatal care.",
+    "specs": {
+      "Modes": "VC, PC, PS",
+      "Oxygen": "21-100%",
+      "Display": "15.6 inch"
+    },
+    "prices": {
+      "India (Medika)": { "value": 2200000, "currency": "INR" },
+      "USA (GlobalMed)": { "value": 28000, "currency": "USD" },
+      "Germany (EuroDoc)": { "value": 25500, "currency": "EUR" },
+      "UK (NHS-Care)": { "value": 21500, "currency": "GBP" }
+    }
+  },
+  {
+    "id": 5,
+    "name": "Stryker Prime Zoom Bed",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?auto=format&fit=crop&q=80&w=400",
+    "description": "Advanced electric patient bed with Zoom motorized drive.",
+    "specs": {
+      "Capacity": "250 kg",
+      "Controls": "Digital Touch",
+      "Safety": "iBed Awareness"
+    },
+    "prices": {
+      "India (Medika)": { "value": 450000, "currency": "INR" },
+      "USA (GlobalMed)": { "value": 5500, "currency": "USD" },
+      "Germany (EuroDoc)": { "value": 5100, "currency": "EUR" },
+      "UK (NHS-Care)": { "value": 4300, "currency": "GBP" }
+    }
+  },
+  {
+    "id": 6,
+    "name": "Siemens Magnetom Lumina 3T MRI Machine",
+    "category": "Imaging",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?auto=format&fit=crop&q=80&w=400",
+    "description": "Premium 3 Tesla MRI scanner for confident diagnosis with BioMatrix technology.",
+    "specs": {
+      "Tesla": "3.0 T",
+      "Bore Size": "70 cm",
+      "Technology": "BioMatrix"
+    },
+    "prices": {
+      "India (Medika)": { "value": 55000000, "currency": "INR" },
+      "USA (GlobalMed)": { "value": 680000, "currency": "USD" },
+      "Germany (EuroDoc)": { "value": 620000, "currency": "EUR" },
+      "UK (NHS-Care)": { "value": 540000, "currency": "GBP" }
+    }
+  },
+  {
+    "id": 11,
+    "name": "HMD Disposable Syringe with Needle (Injection)",
+    "category": "Consumables",
+    "image": "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&q=80&w=400",
+    "description": "High-quality sterile disposable syringe for safe injections and fluid collection.",
+    "specs": {
+      "Capacity": "5 ml",
+      "Needle": "24G x 1",
+      "Type": "Luer Lock"
+    },
+    "prices": {
+      "India (Medika)": { "value": 1500, "currency": "INR" },
+      "USA (GlobalMed)": { "value": 18, "currency": "USD" },
+      "Germany (EuroDoc)": { "value": 16, "currency": "EUR" },
+      "UK (NHS-Care)": { "value": 14, "currency": "GBP" }
+    }
+  },
+  {
+    "id": 12,
+    "name": "Terumo Insulin Pen Needles (Injection)",
+    "category": "Consumables",
+    "image": "https://plus.unsplash.com/premium_photo-1664197333555-520268509c2d?auto=format&fit=crop&q=80&w=400",
+    "description": "Ultra-thin insulin pen needles for painless subcutaneous injections.",
+    "specs": {
+      "Gauge": "32G",
+      "Length": "4 mm",
+      "Compatibility": "Universal"
+    },
+    "prices": {
+      "India (Medika)": { "value": 2400, "currency": "INR" },
+      "USA (GlobalMed)": { "value": 29, "currency": "USD" },
+      "Germany (EuroDoc)": { "value": 26, "currency": "EUR" },
+      "UK (NHS-Care)": { "value": 22, "currency": "GBP" }
+    }
+  },
+  {
+    "id": 13,
+    "name": "BD Vacutainer Blood Collection Set",
+    "category": "Consumables",
+    "image": "https://plus.unsplash.com/premium_photo-1664197333555-520268509c2d?auto=format&fit=crop&q=80&w=400",
+    "description": "Safety-engineered blood collection set for venipuncture and short-term infusion.",
+    "specs": {
+      "Needle": "21G Fly",
+      "Tube Length": "12 inch",
+      "Safety": "Shielded"
+    },
+    "prices": {
+      "India (Medika)": { "value": 3800, "currency": "INR" },
+      "USA (GlobalMed)": { "value": 45, "currency": "USD" },
+      "Germany (EuroDoc)": { "value": 42, "currency": "EUR" },
+      "UK (NHS-Care)": { "value": 36, "currency": "GBP" }
+    }
+  },
+  {
+    "id": 21,
+    "name": "Johnson & Johnson IV Catheter (Injection)",
+    "category": "Consumables",
+    "image": "https://plus.unsplash.com/premium_photo-1664197333555-520268509c2d?auto=format&fit=crop&q=80&w=400",
+    "description": "Intravenous catheter for peripheral venous access and drug injection.",
+    "specs": {
+      "Gauge": "20G",
+      "Flow Rate": "60 ml/min",
+      "Material": "Polyurethane"
+    },
+    "prices": {
+      "India (Medika)": { "value": 1200, "currency": "INR" },
+      "USA (GlobalMed)": { "value": 15, "currency": "USD" },
+      "Germany (EuroDoc)": { "value": 14, "currency": "EUR" },
+      "UK (NHS-Care)": { "value": 12, "currency": "GBP" }
+    }
+  },
+  {
+    "id": 22,
+    "name": "Nipro AVF Needle (Injection)",
+    "category": "Consumables",
+    "image": "https://plus.unsplash.com/premium_photo-1664197333555-520268509c2d?auto=format&fit=crop&q=80&w=400",
+    "description": "Arteriovenous fistula needle for hemodialysis and large volume injections.",
+    "specs": {
+      "Gauge": "16G",
+      "Type": "Winged",
+      "Safety": "Manual Shield"
+    },
+    "prices": {
+      "India (Medika)": { "value": 5500, "currency": "INR" },
+      "USA (GlobalMed)": { "value": 65, "currency": "USD" },
+      "Germany (EuroDoc)": { "value": 60, "currency": "EUR" },
+      "UK (NHS-Care)": { "value": 52, "currency": "GBP" }
+    }
+  },
+  {
+    "id": 23,
+    "name": "Becton Dickinson Spinal Needle (Injection)",
+    "category": "Consumables",
+    "image": "https://plus.unsplash.com/premium_photo-1664197333555-520268509c2d?auto=format&fit=crop&q=80&w=400",
+    "description": "Whitacre pencil point spinal needle for spinal anesthesia injections.",
+    "specs": {
+      "Gauge": "25G",
+      "Length": "3.5 inch",
+      "Hub": "Translucent"
+    },
+    "prices": {
+      "India (Medika)": { "value": 8500, "currency": "INR" },
+      "USA (GlobalMed)": { "value": 105, "currency": "USD" },
+      "Germany (EuroDoc)": { "value": 95, "currency": "EUR" },
+      "UK (NHS-Care)": { "value": 82, "currency": "GBP" }
+    }
+  },
+  {
+    "id": 14,
+    "name": "B. Braun Infusion Pump - Perfusor Space",
+    "category": "Monitoring",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869033e561?auto=format&fit=crop&q=80&w=400",
+    "description": "Compact and lightweight syringe pump for precise drug delivery and injections.",
+    "specs": {
+      "Rate": "0.01 - 999 ml/h",
+      "Accuracy": "± 2%",
+      "Display": "Color LCD"
+    },
+    "prices": {
+      "India (Medika)": { "value": 125000, "currency": "INR" },
+      "USA (GlobalMed)": { "value": 1500, "currency": "USD" },
+      "Germany (EuroDoc)": { "value": 1400, "currency": "EUR" },
+      "UK (NHS-Care)": { "value": 1200, "currency": "GBP" }
+    }
+  },
+  {
+    "id": 15,
+    "name": "Ethicon Vicryl Sutures - Absorbable",
+    "category": "Surgical",
+    "image": "https://images.unsplash.com/photo-1579154235820-bac34f595180?auto=format&fit=crop&q=80&w=400",
+    "description": "Synthetic absorbable sterile surgical sutures for soft tissue approximation.",
+    "specs": {
+      "Size": "2-0",
+      "Needle": "Reverse Cutting",
+      "Length": "75 cm"
+    },
+    "prices": {
+      "India (Medika)": { "value": 9500, "currency": "INR" },
+      "USA (GlobalMed)": { "value": 115, "currency": "USD" },
+      "Germany (EuroDoc)": { "value": 105, "currency": "EUR" },
+      "UK (NHS-Care)": { "value": 90, "currency": "GBP" }
+    }
+  },
+  {
+    "id": 16,
+    "name": "Omron HEM-7120 Blood Pressure Monitor",
+    "category": "Diagnostics",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?auto=format&fit=crop&q=80&w=400",
+    "description": "Fully automatic upper arm blood pressure monitor with Intellisense technology.",
+    "specs": {
+      "Type": "Automatic",
+      "Detection": "Arrhythmia",
+      "Memory": "Last Reading"
+    },
+    "prices": {
+      "India (Medika)": { "value": 2200, "currency": "INR" },
+      "USA (GlobalMed)": { "value": 28, "currency": "USD" },
+      "Germany (EuroDoc)": { "value": 25, "currency": "EUR" },
+      "UK (NHS-Care)": { "value": 21, "currency": "GBP" }
+    }
+  },
+  {
+    "id": 17,
+    "name": "Dräger Perseus A500 Anesthesia Workstation",
+    "category": "Surgical",
+    "image": "https://images.unsplash.com/photo-1581093458791-9f3c3900df4b?auto=format&fit=crop&q=80&w=400",
+    "description": "High-performance anesthesia workstation with advanced ventilation and monitoring.",
+    "specs": {
+      "Screen": "15.3 inch",
+      "Modes": "Pressure, Volume",
+      "Safety": "RFID Sensors"
+    },
+    "prices": {
+      "India (Medika)": { "value": 4500000, "currency": "INR" },
+      "USA (GlobalMed)": { "value": 55000, "currency": "USD" },
+      "Germany (EuroDoc)": { "value": 51000, "currency": "EUR" },
+      "UK (NHS-Care)": { "value": 43000, "currency": "GBP" }
+    }
+  },
+  {
+    "id": 24,
+    "name": "Baxter Sigma Spectrum Infusion System",
+    "category": "Monitoring",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869033e561?auto=format&fit=crop&q=80&w=400",
+    "description": "Smart infusion pump with master drug library and safety features for injections.",
+    "specs": {
+      "Type": "Smart Pump",
+      "Connectivity": "WiFi",
+      "Safety": "Dose Error Reduction"
+    },
+    "prices": {
+      "India (Medika)": { "value": 185000, "currency": "INR" },
+      "USA (GlobalMed)": { "value": 2200, "currency": "USD" },
+      "Germany (EuroDoc)": { "value": 2000, "currency": "EUR" },
+      "UK (NHS-Care)": { "value": 1800, "currency": "GBP" }
+    }
+  },
+  {
+    "id": 25,
+    "name": "Smith & Nephew Arthroscopic Shaver",
+    "category": "Surgical",
+    "image": "https://images.unsplash.com/photo-1579154235820-bac34f595180?auto=format&fit=crop&q=80&w=400",
+    "description": "High-torque shaver system for orthopedic surgical procedures.",
+    "specs": {
+      "Speed": "12,000 RPM",
+      "Modes": "Oscillate, Forward",
+      "Control": "Footswitch"
+    },
+    "prices": {
+      "India (Medika)": { "value": 850000, "currency": "INR" },
+      "USA (GlobalMed)": { "value": 10500, "currency": "USD" },
+      "Germany (EuroDoc)": { "value": 9800, "currency": "EUR" },
+      "UK (NHS-Care)": { "value": 8500, "currency": "GBP" }
+    }
+  }
+]
