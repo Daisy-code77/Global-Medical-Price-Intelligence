@@ -1,6 +1,5 @@
 # MedCompare Global 🏥
 
-![MedCompare Global Banner](public/banner.png)
 
 > **Global Medical Price Intelligence** — Empowering healthcare procurement with real-time price comparisons and technical specifications from leading global manufacturers.
 
